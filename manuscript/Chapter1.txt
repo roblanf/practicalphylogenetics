@@ -1,3 +1,5 @@
 # Introduction
 
-Book overview
+## Purpose and overview (~learning outcomes)
+
+## Why phylogenetics matters

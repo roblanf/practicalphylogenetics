@@ -1,10 +1,5 @@
 # Phylogenetic basics
 
-Intro, basic terminology, pointers to the rest of the book
+# Intro to phylogenetics and basic terminology
 
-1. Trees
-2. Branch lengths
-3. Support values
-
-
-Good examples
+# Recommended software for this book
