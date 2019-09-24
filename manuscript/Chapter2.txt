@@ -1,5 +1,5 @@
 # Phylogenetic basics
 
-# Intro to phylogenetics and basic terminology
+## Intro to phylogenetics and basic terminology
 
-# Recommended software for this book
+## Recommended software for this book
