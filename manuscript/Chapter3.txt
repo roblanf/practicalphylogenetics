@@ -1,0 +1,9 @@
+# Planning a phylogenetics project
+
+## How many loci?
+
+## Which loci?
+
+## Starting with whole genomes.
+
+## Common pitfalls and how to avoid them
