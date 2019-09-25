@@ -1,12 +1,9 @@
 # Planning a phylogenetics project
 
-## Basic principles
-It all depends on your question
-
 ## How many loci?
 
 ## Which loci?
 
-## Starting with whole genomes
+## Starting with whole genomes.
 
 ## Common pitfalls and how to avoid them

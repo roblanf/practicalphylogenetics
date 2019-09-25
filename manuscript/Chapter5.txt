@@ -1,0 +1,17 @@
+# Model Selection
+
+There's a sometimes bewildering choice of models one could choose to use in phylogenetics, and an equally bewildering array of ways to choose between models. In this chapter, you'll learn:
+
+1. What the models are, and how they work
+2. The key assumptions that most models make about your data
+3. How to select an appropriate model for your analysis using relative model selection
+4. A range of techniques to assess whether your models are adequately describing your data
+5. How to do relative and absolute model selection in IQ-TREE
+
+## Basic principles
+
+## Relative model selection
+
+## Absolute model fit
+
+## Model selection recipes

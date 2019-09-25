@@ -1,0 +1,16 @@
+# Inferring a tree from many loci (phylogenomics)
+
+## Basic principles
+Why bother?
+Species trees
+Matt's stuff on unreasonable expecations for resolved trees
+
+## Concatenation
+
+## Coalescence
+
+## Other approaches
+Statistcal binning; mixtures of trees
+
+## Phylogenomic tree inference recipes
+

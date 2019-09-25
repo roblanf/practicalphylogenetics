@@ -1,0 +1,11 @@
+# Inferring a tree for one locus
+
+## Basic principles
+What is a locus?
+Why infer gene trees.
+Note the paper that shows a gene tree won't make sense if there's >1 underlying tree.
+
+## How to infer a gene tree
+
+## Gene tree inference recipes
+

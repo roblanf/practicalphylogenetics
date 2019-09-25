@@ -2,4 +2,6 @@
 
 ## Intro to phylogenetics and basic terminology
 
+## Asking Phylogenetic Questions
+
 ## Recommended software for this book
